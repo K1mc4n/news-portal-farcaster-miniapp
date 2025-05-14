@@ -1,0 +1,10 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "News Portal",
+    "iconUrl": "https://yourdomain.com/icon.png",
+    "homeUrl": "https://yourdomain.com",
+    "splashImageUrl": "https://yourdomain.com/splash.png",
+    "splashBackgroundColor": "#ffffff"
+  }
+}
